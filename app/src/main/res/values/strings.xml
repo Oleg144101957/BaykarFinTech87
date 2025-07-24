@@ -1,77 +1,104 @@
 <resources>
-    <string name="app_name">Т Аналитика</string>
-    <string name="about_btn">О приложении</string>
-    <string name="settings">Настройки</string>
+    <string name="app_name">TP Investments Tech</string>
+    <string name="about_btn">Uygulama Hakkında</string>
+    <string name="settings">Ayarlar</string>
     <string name="about">
-Это приложение поможет вам быстро и удобно проанализировать свои расходы и лучше понять, куда уходят ваши деньги каждый месяц.
+Bu uygulama, harcamalarınızı hızlı ve kolay bir şekilde analiz etmenize yardımcı olur ve her ay paranızın nereye gittiğini daha iyi anlamanızı sağlar.
 
-Вы сможете вести учёт трат по категориям — еда, бытовая техника, одежда, транспорт, развлечения и другие. Добавляйте расходы, прикрепляйте фото чеков и смотрите наглядную статистику.
+Harcamalarınızı yemek, ev aletleri, giyim, ulaşım, eğlence ve diğer kategorilere göre takip edebilirsiniz. Harcamalarınızı ekleyin, fiş fotoğraflarını iliştirin ve görsel istatistiklere göz atın.
 
-Приложение покажет общую сумму расходов и наглядно отобразит долю каждой категории за месяц с помощью удобной диаграммы.
+Uygulama, toplam harcama tutarını gösterir ve her ay her kategorinin payını uygun bir grafik ile açıkça görüntüler.
 
-Сервис создан в образовательных целях и будет полезен всем, кто хочет научиться контролировать личные финансы, оптимизировать бюджет и видеть свои расходы прозрачно и понятно.
+Bu hizmet eğitim amaçlı oluşturulmuştur ve kişisel finanslarını kontrol etmeyi, bütçesini optimize etmeyi ve harcamalarını net ve anlaşılır bir şekilde görmeyi öğrenmek isteyen herkes için faydalıdır.
 </string>
 
-    <string name="no_internet">Нет подключения к интернету\n\nПожалуйста, попробуйте позже</string>
-    <string name="try_again">Далее</string>
-    <string name="welcome">Добро пожаловать</string>
-    <string name="start">Начать</string>
-    <string name="currency_rates">Курсы валют</string>
-    <string name="loan_calculator">Кредитный калькулятор</string>
-    <string name="my_loan_tracker">Мои кредиты</string>
-    <string name="savings_goals">Цели сбережений</string>
-    <string name="investment_calculator">Инвестиционный калькулятор</string>
-    <string name="privacy_policy">Политика конфиденциальности</string>
-    <string name="loan_amount">Сумма кредита</string>
-    <string name="interest_rate">Процентная ставка (%)</string>
-    <string name="loan_term_in_months">Срок кредита (в месяцах)</string>
-    <string name="total_amount_of_payments_2f">Общая сумма выплат: %.2f</string>
-    <string name="overpayment_2f">Переплата: %.2f</string>
-    <string name="please_enter_correct_data">Пожалуйста, введите корректные данные</string>
-    <string name="already_paid">Уже оплачено</string>
-    <string name="loan_balance_2f">Остаток по кредиту: %.2f</string>
-    <string name="enter_weight">Введите вес в граммах</string>
-    <string name="calculate">Рассчитать</string>
-    <string name="invalid_weight">Пожалуйста, введите корректный вес</string>
-    <string name="price_result">Цена: %.3f $</string>
-    <string name="gold">Золото</string>
-    <string name="silver">Серебро</string>
-    <string name="platinum">Платина</string>
-    <string name="convert">Конвертировать</string>
-    <string name="enter_amount">Введите сумму</string>
-    <string name="convert_result">Результат конвертации: %.3f</string>
-    <string name="invalid_amount">Пожалуйста, введите корректное число</string>
-    <string name="save_goal">Сохранить цель</string>
-    <string name="update_goal">Обновить цель</string>
-    <string name="savings_goal">Цель накоплений</string>
-    <string name="goal_name">Название цели</string>
-    <string name="total_needed">Необходимая сумма</string>
-    <string name="add_now">Добавить сейчас</string>
-    <string name="your_goals">Ваши цели:</string>
-    <string name="category_travel">Путешествия</string>
-    <string name="category_education">Образование</string>
-    <string name="category_gadgets">Гаджеты</string>
-    <string name="category_other">Другое</string>
-    <string name="quiz">Образовательный Квиз</string>
-    <string name="modeling_gold_returns">Моделирование доходности золота</string>
-    <string name="modeling_silver_returns">Моделирование доходности серебра</string>
-    <string name="modeling_platinum_returns">Моделирование доходности платины</string>
-    <string name="modeling_palladium_returns">Моделирование доходности палладиума</string>
-    <string name="modeling_real_estate_returns">Моделирование доходности недвижимости</string>
-    <string name="modeling_sp_500stocks_returns">Моделирование доходности акций s&amp;p 500</string>
-    <string name="profit_prefix">Прибыль: </string>
-    <string name="unknown_profit">Прибыль: —</string>
+    <string name="no_internet">İnternet bağlantısı yok\n\nLütfen daha sonra tekrar deneyin</string>
+    <string name="try_again">Devam et</string>
+    <string name="welcome">Hoş geldiniz</string>
+    <string name="start">Başla</string>
+    <string name="currency_rates">Döviz Kurları</string>
+    <string name="loan_calculator">Kredi Hesaplayıcı</string>
+    <string name="my_loan_tracker">Kredilerim</string>
+    <string name="savings_goals">Tasarruf Hedefleri</string>
+    <string name="investment_calculator">Yatırım Hesaplayıcı</string>
+    <string name="privacy_policy">Gizlilik Politikası</string>
+    <string name="loan_amount">Kredi Tutarı</string>
+    <string name="interest_rate">Faiz Oranı (%)</string>
+    <string name="loan_term_in_months">Kredi Süresi (ay olarak)</string>
+    <string name="total_amount_of_payments_2f">Toplam ödeme tutarı: %.2f</string>
+    <string name="overpayment_2f">Fazla ödeme: %.2f</string>
+    <string name="please_enter_correct_data">Lütfen geçerli veriler girin</string>
+    <string name="already_paid">Zaten ödendi</string>
+    <string name="loan_balance_2f">Kredi bakiyesi: %.2f</string>
+    <string name="enter_weight">Gram cinsinden ağırlığı girin</string>
+    <string name="calculate">Hesapla</string>
+    <string name="invalid_weight">Lütfen geçerli bir ağırlık girin</string>
+    <string name="price_result">Fiyat: %.3f $</string>
+    <string name="gold">Altın</string>
+    <string name="silver">Gümüş</string>
+    <string name="platinum">Platin</string>
+    <string name="convert">Dönüştür</string>
+    <string name="enter_amount">Tutarı girin</string>
+    <string name="convert_result">Dönüştürme sonucu: %.3f</string>
+    <string name="invalid_amount">Lütfen geçerli bir sayı girin</string>
+    <string name="save_goal">Hedefi Kaydet</string>
+    <string name="update_goal">Hedefi Güncelle</string>
+    <string name="savings_goal">Tasarruf Hedefi</string>
+    <string name="goal_name">Hedef Adı</string>
+    <string name="total_needed">Gerekli Toplam Tutar</string>
+    <string name="add_now">Şimdi Ekle</string>
+    <string name="your_goals">Hedefleriniz:</string>
+    <string name="category_travel">Seyahat</string>
+    <string name="category_education">Eğitim</string>
+    <string name="category_gadgets">Cihazlar</string>
+    <string name="category_other">Diğer</string>
+    <string name="quiz">Eğitici Test</string>
+    <string name="modeling_gold_returns">Altın Getirisinin Modellemesi</string>
+    <string name="modeling_silver_returns">Gümüş Getirisinin Modellemesi</string>
+    <string name="modeling_platinum_returns">Platin Getirisinin Modellemesi</string>
+    <string name="modeling_palladium_returns">Paladyum Getirisinin Modellemesi</string>
+    <string name="modeling_real_estate_returns">Gayrimenkul Getirisinin Modellemesi</string>
+    <string name="modeling_sp_500stocks_returns">S&amp;P 500 Hisse Getirisinin Modellemesi</string>
+    <string name="profit_prefix">Kazanç: </string>
+    <string name="unknown_profit">Kazanç: —</string>
     <string name="months_label">%1$d</string>
-    <string name="input_label">Введите сумму</string>
-    <string name="calculate_button">Узнать доходность</string>
-    <string name="return_result">Доходность за %1$d мес: %2$.2f%%</string>
-    <string name="back">Назад</string>
-    <string name="add_info">Добавить траты</string>
-    <string name="history">История трат</string>
-    <string name="analytic">Анализ трат</string>
+    <string name="input_label">Tutarı girin</string>
+    <string name="calculate_button">Getiriyi Öğren</string>
+    <string name="return_result">%1$d ay için getiri: %2$.2f%%</string>
+    <string name="back">Geri</string>
+    <string name="add_info">Gider Ekle</string>
+    <string name="history">Harcama Geçmişi</string>
+    <string name="analytic">Harcama Analizi</string>
+    <string name="add_photo">Fiş Fotoğrafı Ekle</string>
+    <string name="save_expense">Gideri Kaydet</string>
+    <string name="list_of_unwanted_expenses">İstenmeyen Harcamalar Listesi</string>
+    <string name="add_expense">İstenmeyen Gider Ekle</string>
+    <string name="unwanted_expense_title">İstenmeyen harcama listeniz</string>
+    <string name="unwanted_expense_hint">İstenmeyen bir harcamayı ekleyin</string>
+    <string name="delete">Sil</string>
+    <string name="amount">Tutar</string>
+    <string name="description">Neye harcandı</string>
+    <string name="no_expenses">Henüz herhangi bir harcama eklemediniz</string>
+    <string name="amount_param">Tutar: %1$s ₺</string>
+    <string name="description_param">Açıklama: %1$s</string>
+    <string name="category">Kategori: %1$s</string>
+    <string name="date">Tarih: %1$s</string>
+    <string name="monthly_report_title">Aylık Finansal Rapor</string>
+    <string name="monthly_expenses_title">Bu ayki harcamalarınız</string>
+    <string name="top_category_title">En büyük harcama kategorisi</string>
+    <string name="blacklist_title">Kara liste harcamaları</string>
+    <string name="blacklist_empty">Henüz istenmeyen harcamalar eklemediniz.\n\nKendinizi bazı harcamalardan kısıtlamak isterseniz, Ayarlar → Kara Liste bölümüne gidin.</string>
+    <string name="advice_title">Ayın Tavsiyesi</string>
+    <string name="no_data_advice">Analiz için veri yok. Tavsiyeleri görmek için harcama ekleyin.</string>
+    <string name="food_advice">Harcamanızın %50\'den fazlası yiyeceğe gidiyor. Evde yemek yapmayı deneyin.</string>
+    <string name="high_spending_advice">Küçük harcamalara dikkat edin. Bu ayki toplam harcamanız yüksek.</string>
+    <string name="good_expenses_advice">Harcamalarınız iyi görünüyor. Aynı şekilde devam edin!</string>
+    <string name="fill_all_fields">Tüm alanları doldurun ve bir fotoğraf ekleyin</string>
+    <string name="category_label">Kategori</string>
+    <string name="category_food">Yiyecek</string>
+    <string name="category_appliances">Ev Aletleri</string>
+    <string name="category_clothing">Giyim</string>
+    <string name="category_transport">Ulaşım</string>
+    <string name="category_entertainment">Eğlence</string>
 
-    <string name="add_photo">Добавить фото чека</string>
-    <string name="save_expense">Сохранить трату</string>
-    <string name="list_of_unwanted_expenses">Список нежелательных трат</string>
-    <string name="add_expense">Добавить нежелательную трату</string>
 </resources>
