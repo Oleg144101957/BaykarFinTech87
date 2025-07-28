@@ -89,7 +89,12 @@ fun AnalyticsScreen(
                     fontWeight = FontWeight.Bold
                 )
                 Spacer(modifier = Modifier.height(8.dp))
-                Text(text = "%.0f ₽".format(total), fontSize = 24.sp, color = Color.Black)
+                Text(
+                    text = "%.0f ₽".format(total),
+                    fontSize = 24.sp,
+                    color = Color.Black,
+                    fontWeight = FontWeight.Bold
+                )
             }
         }
 
@@ -110,7 +115,8 @@ fun AnalyticsScreen(
                 Text(
                     "$topCategory: %.0f ₽".format(topCategoryAmount),
                     fontSize = 20.sp,
-                    color = Color.Black
+                    color = Color.Black,
+                    fontWeight = FontWeight.Bold
                 )
             }
         }
@@ -134,7 +140,8 @@ fun AnalyticsScreen(
                     Text(
                         text = stringResource(R.string.blacklist_empty),
                         fontSize = 16.sp,
-                        color = Color.Gray
+                        color = Color.Black,
+                        fontWeight = FontWeight.Bold
                     )
                 } else {
                     blacklist.forEach { item ->
@@ -159,7 +166,7 @@ fun AnalyticsScreen(
                     fontWeight = FontWeight.Bold
                 )
                 Spacer(modifier = Modifier.height(8.dp))
-                Text(advice, fontSize = 16.sp, color = Color.Black)
+                Text(advice, fontSize = 16.sp, color = Color.Black, fontWeight = FontWeight.Bold)
             }
         }
 
