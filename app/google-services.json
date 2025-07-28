@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "1009048993638",
-    "project_id": "tpinvestementstechnology",
-    "storage_bucket": "tpinvestementstechnology.firebasestorage.app"
+    "project_number": "609162068218",
+    "project_id": "investmarket-app",
+    "storage_bucket": "investmarket-app.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1009048993638:android:e6bcd6a24084b1e15612a7",
+        "mobilesdk_app_id": "1:609162068218:android:d0aad557fdfc9d871d0943",
         "android_client_info": {
-          "package_name": "tr.tp.tech.inves"
+          "package_name": "com.invm.ark.etapp"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyC55czrcPlp4V-wxPZf9BsQNTz3N71L0LY"
+          "current_key": "AIzaSyAT1tUX5gh0rIVLcziiovQZFtCPntBVUGI"
         }
       ],
       "services": {

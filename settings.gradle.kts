@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "TP Investments Tech"
+rootProject.name = "InvestMarket App"
 include(":app")
