@@ -86,11 +86,12 @@ fun AnalyticsScreen(
                 Text(
                     text = stringResource(R.string.monthly_expenses_title),
                     fontSize = 18.sp,
-                    fontWeight = FontWeight.Bold
+                    fontWeight = FontWeight.Bold,
+                    color = Color.Black
                 )
                 Spacer(modifier = Modifier.height(8.dp))
                 Text(
-                    text = "%.0f ₽".format(total),
+                    text = "%.0f ".format(total),
                     fontSize = 24.sp,
                     color = Color.Black,
                     fontWeight = FontWeight.Bold
@@ -109,11 +110,12 @@ fun AnalyticsScreen(
                 Text(
                     text = stringResource(R.string.top_category_title),
                     fontSize = 18.sp,
-                    fontWeight = FontWeight.Bold
+                    fontWeight = FontWeight.Bold,
+                    color = Color.Black
                 )
                 Spacer(modifier = Modifier.height(8.dp))
                 Text(
-                    "$topCategory: %.0f ₽".format(topCategoryAmount),
+                    "$topCategory: %.0f ".format(topCategoryAmount),
                     fontSize = 20.sp,
                     color = Color.Black,
                     fontWeight = FontWeight.Bold
@@ -132,7 +134,9 @@ fun AnalyticsScreen(
                 Text(
                     text = stringResource(R.string.blacklist_title),
                     fontSize = 18.sp,
-                    fontWeight = FontWeight.Bold
+                    fontWeight = FontWeight.Bold,
+                    color = Color.Black
+
                 )
                 Spacer(modifier = Modifier.height(8.dp))
 
@@ -163,7 +167,8 @@ fun AnalyticsScreen(
                 Text(
                     text = stringResource(R.string.advice_title),
                     fontSize = 18.sp,
-                    fontWeight = FontWeight.Bold
+                    fontWeight = FontWeight.Bold,
+                    color = Color.Black
                 )
                 Spacer(modifier = Modifier.height(8.dp))
                 Text(advice, fontSize = 16.sp, color = Color.Black, fontWeight = FontWeight.Bold)
