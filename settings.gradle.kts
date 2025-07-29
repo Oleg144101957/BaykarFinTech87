@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "InvestMarket App"
+rootProject.name = "Baykar Fin"
 include(":app")

@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "609162068218",
-    "project_id": "investmarket-app",
-    "storage_bucket": "investmarket-app.firebasestorage.app"
+    "project_number": "23215634285",
+    "project_id": "baykar-fin-e2ae5",
+    "storage_bucket": "baykar-fin-e2ae5.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:609162068218:android:d0aad557fdfc9d871d0943",
+        "mobilesdk_app_id": "1:23215634285:android:012332352fe4c9fcba0c64",
         "android_client_info": {
-          "package_name": "com.invm.ark.etapp"
+          "package_name": "tr.ba.y.kar.fi"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAT1tUX5gh0rIVLcziiovQZFtCPntBVUGI"
+          "current_key": "AIzaSyDspxt75yczj6vIxjeW7vLwLZr_xtm0YTQ"
         }
       ],
       "services": {

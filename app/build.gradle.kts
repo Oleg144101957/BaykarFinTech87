@@ -8,11 +8,11 @@ plugins {
 }
 
 android {
-    namespace = "com.invm.ark.etapp"
+    namespace = "tr.ba.y.kar.fi"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.invm.ark.etapp"
+        applicationId = "tr.ba.y.kar.fi"
         minSdk = 26
         targetSdk = 35
         versionCode = 1
