@@ -8,11 +8,11 @@ plugins {
 }
 
 android {
-    namespace = "tr.ba.y.kar.fi"
+    namespace = "ru.ga.z.nachisle"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "tr.ba.y.kar.fi"
+        applicationId = "ru.ga.z.nachisle"
         minSdk = 26
         targetSdk = 35
         versionCode = 1

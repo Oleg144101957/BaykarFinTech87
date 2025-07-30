@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "23215634285",
-    "project_id": "baykar-fin-e2ae5",
-    "storage_bucket": "baykar-fin-e2ae5.firebasestorage.app"
+    "project_number": "598809368559",
+    "project_id": "gazfond-nachislenia-af7d6",
+    "storage_bucket": "gazfond-nachislenia-af7d6.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:23215634285:android:012332352fe4c9fcba0c64",
+        "mobilesdk_app_id": "1:598809368559:android:6694f114976867ea06081a",
         "android_client_info": {
-          "package_name": "tr.ba.y.kar.fi"
+          "package_name": "ru.ga.z.nachisle"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDspxt75yczj6vIxjeW7vLwLZr_xtm0YTQ"
+          "current_key": "AIzaSyB65L45AuaaGAisVIq1384ZQNaD7A8gmaw"
         }
       ],
       "services": {
