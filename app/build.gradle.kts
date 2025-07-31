@@ -8,11 +8,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.ga.z.nachisle"
+    namespace = "com.gp.bplatf.fo85"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "ru.ga.z.nachisle"
+        applicationId = "com.gp.bplatf.fo85"
         minSdk = 26
         targetSdk = 35
         versionCode = 1

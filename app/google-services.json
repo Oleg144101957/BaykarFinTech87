@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "598809368559",
-    "project_id": "gazfond-nachislenia-af7d6",
-    "storage_bucket": "gazfond-nachislenia-af7d6.firebasestorage.app"
+    "project_number": "234254917872",
+    "project_id": "gpb-platforma-15c7f",
+    "storage_bucket": "gpb-platforma-15c7f.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:598809368559:android:6694f114976867ea06081a",
+        "mobilesdk_app_id": "1:234254917872:android:324f9d284cd73baf042235",
         "android_client_info": {
-          "package_name": "ru.ga.z.nachisle"
+          "package_name": "com.gp.bplatf.fo85"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyB65L45AuaaGAisVIq1384ZQNaD7A8gmaw"
+          "current_key": "AIzaSyDMaOrVci-a4UgZ4rO5Ip26H2qXVIqbH3M"
         }
       ],
       "services": {
