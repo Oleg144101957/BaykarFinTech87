@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "234254917872",
-    "project_id": "gpb-platforma-15c7f",
-    "storage_bucket": "gpb-platforma-15c7f.firebasestorage.app"
+    "project_number": "550713989270",
+    "project_id": "baykar-fintech",
+    "storage_bucket": "baykar-fintech.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:234254917872:android:324f9d284cd73baf042235",
+        "mobilesdk_app_id": "1:550713989270:android:7407c4cb7535f683194ab7",
         "android_client_info": {
-          "package_name": "com.gp.bplatf.fo85"
+          "package_name": "tr.bay.kar.fi.ntech"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDMaOrVci-a4UgZ4rO5Ip26H2qXVIqbH3M"
+          "current_key": "AIzaSyD-uIOjoyQdIvxLlkxQ3OEM2VgI55FY2G0"
         }
       ],
       "services": {

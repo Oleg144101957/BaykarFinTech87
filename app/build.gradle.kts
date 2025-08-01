@@ -8,11 +8,11 @@ plugins {
 }
 
 android {
-    namespace = "com.gp.bplatf.fo85"
+    namespace = "tr.bay.kar.fi.ntech"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.gp.bplatf.fo85"
+        applicationId = "tr.bay.kar.fi.ntech"
         minSdk = 26
         targetSdk = 35
         versionCode = 1
